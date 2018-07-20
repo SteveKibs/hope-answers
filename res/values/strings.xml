@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hope &amp; Answers</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonUpdate">Update</string>
+    <string name="editText">Please enter your status (140 characters)</string>
+    <string name="titleStatus">Status Update</string>
+
+</resources>
